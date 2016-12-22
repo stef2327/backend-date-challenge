@@ -31,7 +31,7 @@ interface DateDifference
      *
      * @return int
      */
-    public function getDifferenceInDates();
+    public function getDifferenceInDays();
 
     /**
      * The total distance between two dates in days.
