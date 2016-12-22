@@ -21,6 +21,6 @@ $difference->getTotalDifferenceInDays() // = 376
 ```
 
 You are free to structure the code anyway you see fit. You may find it easiest to fork this repository and continue
-from the base provided.
+from the base provided. Your implementation is expected to match php's `DateInterval`
 
 **Unit tests are strongly encouraged**.
